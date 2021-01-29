@@ -19,7 +19,6 @@ package body Google_naive is
 
 
 
-
    function Est_vide (matrice : in T_Google) return boolean
     is
        begin
